@@ -1,2 +1,2 @@
 # machine_learning
-Repository machine learning course, 2025
+Repository for machine learning course, 2025
